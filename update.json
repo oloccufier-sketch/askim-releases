@@ -1,7 +1,7 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apkUrl": "",
-  "sha256": "",
-  "changelog": "Initial configuration"
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/oloccufier-sketch/askim-releases/releases/download/v1.1/app-debug.apk",
+  "sha256": "EA9D0648A6C06C080B6C19AA944F600C3DC354F06C265542509A3B7CA053A856",
+  "changelog": "Versie 1.1: In-app updater geactiveerd en kleine verbeteringen!"
 }
