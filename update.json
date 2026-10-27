@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/oloccufier-sketch/askim-releases/releases/download/v1.2/app-debug.apk",
-  "sha256": "3DB9D75174975AFBF8242D018EE588AE9E1E3A063A5227D3F711F295D96D1242",
-  "changelog": "Our Little Cat toegevoegd! Verzorg samen jullie katje met eten, knuffels en speeltijd."
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/oloccufier-sketch/askim-releases/releases/download/v1.3/app-debug.apk",
+  "sha256": "311E74641725B1459F89E8980AEB8074669A1D205FB5505899F09490C776AE33",
+  "changelog": "hope it works"
 }
