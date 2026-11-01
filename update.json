@@ -1,7 +1,7 @@
 {
-  "versionCode": 9,
-  "versionName": "1.8",
-  "apkUrl": "https://github.com/oloccufier-sketch/askim-releases/releases/download/v1.8/app-debug.apk",
+  "versionCode": 10,
+  "versionName": "1.9",
+  "apkUrl": "https://github.com/oloccufier-sketch/askim-releases/releases/download/v1.9/app-debug.apk",
   "sha256": "6BDDE9749CBCFA2AA783A0762D33F69D1D675F5081DA6EA5C745CFB227B1CA25",
   "changelog": "noticiation"
 }
