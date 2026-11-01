@@ -1,7 +1,7 @@
 {
-  "versionCode": 12,
-  "versionName": "1.11",
-  "apkUrl": "https://github.com/oloccufier-sketch/askim-releases/releases/download/v1.11/app-debug.apk",
-  "sha256": "DA104126C0B3CA76DC8CB7CCFA7D2C8A9A01D6BB174F4D5ED1830FC86FB5C9C0",
-  "changelog": "xx"
+  "versionCode": 13,
+  "versionName": "1.12",
+  "apkUrl": "https://github.com/oloccufier-sketch/askim-releases/releases/download/v1.12/app-debug.apk",
+  "sha256": "7C900F1EC89B1F9B943004944033A7BD4B1E9A6D4A89345DFA6CC0656CDD7C2C",
+  "changelog": "cat"
 }
